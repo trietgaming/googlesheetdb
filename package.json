@@ -1,5 +1,5 @@
 {
-  "name": "gsheetdb",
+  "name": "googlesheetdb",
   "version": "1.0.0",
   "description": "A library that use Google Sheet as a database for Javascript applications.",
   "main": "src/index.ts",
