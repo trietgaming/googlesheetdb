@@ -1,0 +1,1 @@
+export const GOOGLE_SHEET_API_BASEURL = "https://sheets.googleapis.com";
